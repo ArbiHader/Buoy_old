@@ -21,7 +21,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <meta-data android:name="com.google.android.gms.version"
-           android:value="@integer/17" />
+           android:value="@integer/" />
         <activity
             android:name="com.usefulapps.buoy.HomeActivity"
             android:label="@string/app_name" >
